@@ -10,8 +10,8 @@ smtp_port = 465                 # Standard secure SMTP port
 smtp_server = "smtp.gmail.com"  # Google SMTP Server
 
 # Set up the email lists
-email_from = "shambhaviraikar77@gmail.com"
-email_list = ["kamakshishirodkar77@gmail.com", "sheelam@pes.edu", "nehams2004@gmail.com"]
+email_from = "abc.com"
+email_list = ["xyz@gmail.com", "123.edu", "ygdy.com"]
 
 # Define the password (better to reference externally)
 pswd = "uyce bjyn mzhi epgc" # As shown in the video this password is now dead, left in as example only
