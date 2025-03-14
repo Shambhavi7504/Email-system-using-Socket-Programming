@@ -3,8 +3,8 @@ import ssl
 
 smtp_port = 465  # 465 is the standard secure SMTP port for SSL
 smtp_server = "smtp.gmail.com"  # Google SMTP Server
-email_from = "shambhaviraikar77@gmail.com"
-email_to = "nandini.edu2004@gmail.com"
+email_from = "1235@gmail.com"
+email_to = "ghjghj@gmail.com"
 pswd = "uyce bjyn mzhi epgc"
 message = "Hi, how are you?"
 
